@@ -1,2 +1,3 @@
 # HelloWorld
-1st github
+Hi humans
+patra here ,I like Core.
